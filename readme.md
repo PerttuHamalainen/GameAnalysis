@@ -10,3 +10,5 @@ Aalto students can run the notebooks in a browser as follows:
 4. In the Launcher tab, click "Terminal"
 5. Type ```git clone https://github.com/PerttuHamalainen/GameAnalysis.git```, which copies this repository to your Aalto Jupyterlab folder
 6. In the browser on the left, navigate to the GameAnalysis folder and click to open a notebook (.ipynb)
+
+If you want to run the notebooks locally on your computer, install [Anaconda](https://www.anaconda.com/distribution/), and then type ```jupyter notebook``` in your anaconda prompt after navigating to the folder with the notebooks.
