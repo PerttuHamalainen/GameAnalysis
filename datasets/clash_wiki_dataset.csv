@@ -1,0 +1,71 @@
+Card,Card Level (Spawn Level),Cost,Count,Crown Tower Damage,Damage,Damage per second,Death Damage,Health (+Shield),Hit Speed,Level,Maximum Spawned,Radius,Range,Spawn DPS,Spawn Damage,Spawn Health,Spawn Speed,Spawner Health,Troop Spawned,Type
+Archers,,3,2,,86,71,0,254,1.2,9,,,5,,,,,,,Troops and Defenses
+Baby Dragon,,4,1,,133,83,0,"1,064",1.6,4,,,3.5,,,,,,,Troops and Defenses
+Balloon,,5,1,,798,266,272,"1,396",3,4,,,0,,,,,,,Troops and Defenses
+Bandit,,3,1,,160,160,0,780,1,1,,,0,,,,,,,Troops and Defenses
+Barbarians,,5,4,,159,106,0,636,1.5,9,,,0,,,,,,,Troops and Defenses
+Bats,,2,5,,67,67,0,67,1,9,,,0,,,,,,,Troops and Defenses
+Battle Ram,,4,1,,246,0,0,756,0,7,,,0,,,,,,,Troops and Defenses
+Bomb Tower,,5,1,,176,110,0,"1,672",1.6,7,,,6,,,,,,,Troops and Defenses
+Bomber,,3,1,,271,142,0,311,1.9,9,,,4.5,,,,,,,Troops and Defenses
+Bowler,,5,1,,239,95,0,"1,596",2.5,4,,,5,,,,,,,Troops and Defenses
+Cannon,,3,1,,127,158,0,742,0.8,9,,,5.5,,,,,,,Troops and Defenses
+Cannon Cart,,5,1,,203,169,0,696 (+696),1.2,4,,,5.5,,,,,,,Troops and Defenses
+Dark Prince,,4,1,,206,147,0,977 (+266),1.5,4,,,0,,,,,,,Troops and Defenses
+Dart Goblin,,3,1,,93,132,0,216,0.7,7,,,6.5,,,,,,,Troops and Defenses
+Electro Wizard,,4,1,,200,111,0,590,1.8,1,,,5,,,,,,,Troops and Defenses
+Elite Barbarians,,6,2,,254,169,0,970,1.5,9,,,0,,,,,,,Troops and Defenses
+Executioner,,5,1,,280,116,0,"1,010",2.4,4,,,4.5,,,,,,,Troops and Defenses
+Fire Spirits,,2,3,,169,0,0,91,0,9,,,2,,,,,,,Troops and Defenses
+Giant,,5,1,,211,140,0,"3,344",1.5,7,,,0,,,,,,,Troops and Defenses
+Giant Skeleton,,6,1,,172,114,957,"2,660",1.5,4,,,0,,,,,,,Troops and Defenses
+Goblin Gang,,3,3/2,,106/50,96/38,0,169/110,1.1/1.3,9,,,0/5,,,,,,,Troops and Defenses
+Goblins,,2,3,,106,96,0,169,1.1,9,,,0,,,,,,,Troops and Defenses
+Golem,,8,1,,259,103,259,"4,256",2.5,4,,,0,,,,,,,Troops and Defenses
+Golemite,,N/A,2,,53,21,53,864,2.5,4,,,0,,,,,,,Troops and Defenses
+Guards,,3,3,,86,71,0,86 (+199),1.2,4,,,0,,,,,,,Troops and Defenses
+Hog Rider,,4,1,,264,176,0,"1,408",1.5,7,,,0,,,,,,,Troops and Defenses
+Ice Golem,,2,1,,70,28,70,"1,047",2.5,7,,,1,,,,,,,Troops and Defenses
+Ice Spirit,,1,1,,95,0,0,190,0,9,,,2.5,,,,,,,Troops and Defenses
+Ice Wizard,,3,1,,69,40,0,665,1.7,1,,,5.5,,,,,,,Troops and Defenses
+Inferno Dragon,,4,1,,30-350,75-875,0,"1,070",0.4,1,,,4,,,,,,,Troops and Defenses
+Inferno Tower,,5,1,,35-704,"87-1,760",0,"1,408",0.4,7,,,6,,,,,,,Troops and Defenses
+Knight,,3,1,,159,144,0,"1,399",1.1,9,,,0,,,,,,,Troops and Defenses
+Lava Hound,,7,1,,45,34,0,"3,000",1.3,1,,,2,,,,,,,Troops and Defenses
+Lava Pup,,N/A,6,,45,45,0,179,1,1,,,2,,,,,,,Troops and Defenses
+Lumberjack,,4,1,,200,285,0,990,0.7,1,,,0,,,,,,,Troops and Defenses
+Mega Minion,,3,1,,258,172,0,695,1.5,7,,,2,,,,,,,Troops and Defenses
+Mini P.E.K.K.A.,,4,1,,598,332,0,"1,056",1.8,7,,,0,,,,,,,Troops and Defenses
+Miner,,3,1,,160,133,0,"1,000",1.2,1,,,0,,,,,,,Troops and Defenses
+Minions,,3,3,,84,84,0,190,1,9,,,2,,,,,,,Troops and Defenses
+Minion Horde,,5,6,,84,84,0,190,1,9,,,2,,,,,,,Troops and Defenses
+Mortar,,4,1,,228,45,0,"1,272",5,9,,,3-11,,,,,,,Troops and Defenses
+Musketeer,,4,1,,176,160,0,598,1.1,7,,,6,,,,,,,Troops and Defenses
+Night Witch,,4,1,,260,173,0,750,1.5,1,,,0,,,,,,,Troops and Defenses
+P.E.K.K.A.,,7,1,,678,376,0,"3,458",1.8,4,,,0,,,,,,,Troops and Defenses
+Prince,,5,1,,325,216,0,"1,463",1.5,4,,,0,,,,,,,Troops and Defenses
+Princess,,3,1,,140,46,0,216,3,1,,,9,,,,,,,Troops and Defenses
+Royal Giant,,6,1,,159,93,0,"2,544",1.7,9,,,6.5,,,,,,,Troops and Defenses
+Skeletons,,1,3,,67,67,0,67,1,9,,,0,,,,,,,Troops and Defenses
+Skeleton Army,,3,14,,67,67,0,67,1,4,,,0,,,,,,,Troops and Defenses
+Sparky,,6,1,,"1,300",260,0,"1,200",5,1,,,4.5,,,,,,,Troops and Defenses
+Spear Goblins,,2,3,,50,38,0,110,1.3,9,,,5,,,,,,,Troops and Defenses
+Tesla,,4,1,,135,168,0,954,0.8,9,,,5.5,,,,,,,Troops and Defenses
+Three Musketeers,,9,3,,176,160,0,598,1.1,7,,,6,,,,,,,Troops and Defenses
+Valkyrie,,4,1,,211,140,0,"1,548",1.5,7,,,0,,,,,,,Troops and Defenses
+Witch,,5,1,,69,98,0,696,0.7,4,,,5,,,,,,,Troops and Defenses
+Wizard,,5,1,,228,163,0,598,1.4,7,,,5.5,,,,,,,Troops and Defenses
+X-Bow,,6,1,,26,104,0,"1,330",0.25,4,,,11.5,,,,,,,Troops and Defenses
+Barbarian Hut,7 (9),7,,,,,,,,,10,,,106,159,636,14,"1,936",Barbarians,Spawners
+Furnace,7 (9),4,,,,,,,,,12,,,0,169,91,10,"1,056",Fire Spirits,Spawners
+Goblin Barrel,4 (9),3,,,,,,,,,3,,,96,106,169,0,0,Goblins,Spawners
+Goblin Hut,7 (9),5,,,,,,,,,13,,,38,50,110,4.9,"1,232",Spear Goblins,Spawners
+Graveyard,1 (9),5,,,,,,,,,15,,,67,67,67,0.5,0,Skeletons,Spawners
+Tombstone,7 (9),3,,,,,,,,,18,,,67,67,67,2.9,422,Skeletons,Spawners
+Arrows,,3,,98,243,,,,,9,,4,,,,,,,,Damaging Spells
+Fireball,,4,,229,572,,,,,7,,2.5,,,,,,,,Damaging Spells
+Lightning,,6,,346,864,,,,,4,,3.5,,,,,,,,Damaging Spells
+Poison,,4,,240,600,,,,,4,,3.5,,,,,,,,Damaging Spells
+Rocket,,6,,493,"1,232",,,,,7,,2,,,,,,,,Damaging Spells
+The Log,,2,,96,240,,,,,1,,3.9,,,,,,,,Damaging Spells
+Zap,,2,,64,159,,,,,9,,2.5,,,,,,,,Damaging Spells
