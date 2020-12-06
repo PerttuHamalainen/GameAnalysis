@@ -1,14 +1,21 @@
-This repository contains code and materials for Aalto University's Game Analysis class.
+This repository contains materials and code for Aalto University's Game Analysis class, instructed by [Prof. Perttu Hämäläinen](http://perttu.info).
 
-This is currently work in progress, and only contains some jupyter notebooks. Lecture slides etc. will be added later and are currently provided in MyCourses.
+**Course contents:**
 
-Aalto students can run the notebooks in a browser as follows:
+The course is a one week workshop, with approximately 8 hours per day:
 
-1. Go to <http://jupyter.cs.aalto.fi>
-2. Sign in with your Aalto account
-3. Select "Python general use" and click "spawn"
-4. In the Launcher tab, click "Terminal"
-5. Type ```git clone https://github.com/PerttuHamalainen/GameAnalysis.git```, which copies this repository to your Aalto Jupyterlab folder
-6. In the browser on the left, navigate to the GameAnalysis folder and click to open a notebook (.ipynb)
+* Day 1: Game analysis and research intro
+* Day 2: Game design math, balancing, analytics. We will heavily utilize Colab notebooks (see below).
+* Day 3: Psychology of game design: Behavioral game design, behavioral economics, monetization
+* Day 4: Psychology of game design: Intrinsic motivation, emotion
+* Day 5: Understanding the human body: Motor learning and performance for action game design, movement-based games. We usually conclude with a visit to [Valo Motion](https://valomotion.com), but this is canceled in 2020 because of the pandemic.  
 
-If you want to run the notebooks locally on your computer, install [Anaconda](https://www.anaconda.com/distribution/), and then type ```jupyter notebook``` in your anaconda prompt after navigating to the folder with the notebooks.
+**Approach:**
+
+The course consists of lectures, exercises, and a final project that can be either an essay or a practical project such as a data-driven analysis of a game. Further details are provided during the class.
+
+Day 2 math and analytics exercises use [Google Colab](https://twitter.com/perttu_h) and the .ipynb notebooks in this repository. Direct links for opening the notebooks in Colab:
+
+* [Intro: churn, virality, monetization](https://colab.research.google.com/github/PerttuHamalainen/GameAnalysis/blob/master/RetentionAndVirality.ipynb). Note that we were previously using spreadsheets for similar exercises, and the old Excel files are provided in the spreadsheets folder in case someone is interested.  
+
+* [Clash Royale balance analysis](https://colab.research.google.com/github/PerttuHamalainen/GameAnalysis/blob/master/ClashRoyaleBalance.ipynb). We look at card cost/benefit curves based on a Kaggle dataset of card stats.
