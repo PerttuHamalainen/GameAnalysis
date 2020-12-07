@@ -1,4 +1,4 @@
-This repository contains materials and code for Aalto University's Game Analysis class, instructed by [Prof. Perttu Hämäläinen](http://perttu.info).
+This repository contains materials and code for Aalto University's Game Analysis class, instructed by [Prof. Perttu Hämäläinen](http://perttu.info) and [Prof. Elisa Mekler]().
 
 **Course contents:**
 
@@ -14,7 +14,7 @@ The course is a one week workshop, with approximately 8 hours per day:
 
 The course consists of lectures, exercises, and a final project that can be either an essay or a practical project such as a data-driven analysis of a game. Further details are provided during the class.
 
-Day 2 math and analytics exercises use [Google Colab](https://twitter.com/perttu_h) and the .ipynb notebooks in this repository.
+Day 2 math and analytics exercises use [Google Colab](https://colab.research.google.com) and the .ipynb notebooks in this repository.
 
 Click below to directly open the notebooks in Colab. After opening, select "copy to drive" to edit and run the code.
 
