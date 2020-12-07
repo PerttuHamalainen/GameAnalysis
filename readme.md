@@ -12,9 +12,9 @@ The course is a one week workshop, with approximately 8 hours per day:
 
 **Approach:**
 
-The course consists of lectures, exercises, and a final project that can be either an essay or a practical project such as a data-driven analysis of a game. Further details are provided during the class.
+The course consists of lectures, exercises, and a [final assignment](FinalAssignment.md).  
 
-Day 2 math and analytics exercises use [Google Colab](https://colab.research.google.com) and the .ipynb notebooks in this repository.
+Day 2 math and analytics exercises use [Google Colab](https://colab.research.google.com) and the .ipynb notebooks in this repository. There are two notebooks that form a continuum with exercises of progressive difficulty. It is not expected that all students will complete all exercises. If one has zero programming experience, one might only work on the first notebook.
 
 Click below to directly open the notebooks in Colab. After opening, select "copy to drive" to edit and run the code.
 
