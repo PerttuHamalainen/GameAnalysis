@@ -25,6 +25,6 @@ Click below to directly open the notebooks in Colab. After opening, select "copy
 Before starting with the Colab notebooks, you might also check the (simplified) Excel spreadsheet versions of the same:
 
 * [spreadsheets/monetization_forecast.xlsx](spreadsheets/monetization_forecast.xlsx)
-* [spreadsheets/Clash_Royale_cards_balance.xlsx](spreadsheets/Clash_Royale_balance_analysis.xlsx)
+* [spreadsheets/Clash_Royale_cards_balance.xlsx](spreadsheets/Clash_Royale_cards_balance.xlsx)
 
 Although game designers still often use spreadsheets, they are generally being replaced or at least augmented with notebooks, e.g., in game data science. The values in spreadsheet cells might be easier to tweak, but on the other hand, the Python code and equations are more human-readable, and Python enables more complex simulations.
