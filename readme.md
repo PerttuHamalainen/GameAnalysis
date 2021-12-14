@@ -22,4 +22,9 @@ Click below to directly open the notebooks in Colab. After opening, select "copy
 
 * [Advanced: Clash Royale balance analysis](https://colab.research.google.com/github/PerttuHamalainen/GameAnalysis/blob/master/ClashRoyaleBalance.ipynb). We look at card cost/benefit curves based on a Kaggle dataset of card stats.
 
-Note that we were previously using spreadsheets for similar exercises, and the old Excel files are provided in the spreadsheets folder in case someone is interested. In game analytics and data science, Python notebooks have largely replaced spreadsheets, and it's reasonable to assume that the same will happen in game design, although spreadsheets are still commonly used right now. 
+Before starting with the Colab notebooks, you might also check the (simplified) Excel spreadsheet versions of the same:
+
+* [spreadsheets/monetization_forecast.xlsx](spreadsheets/monetization_forecast.xlsx)
+* [spreadsheets/Clash_Royale_balance_analysis.xlsx](spreadsheets/Clash_Royale_balance_analysis.xlsx)
+
+Although game designers still often use spreadsheets, they are generally being replaced or at least augmented with notebooks, e.g., in game data science. The values in spreadsheet cells might be easier to tweak, but on the other hand, the Python code and equations are more human-readable, and Python enables more complex simulations.
