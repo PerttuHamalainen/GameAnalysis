@@ -2,10 +2,10 @@ This repository contains materials and code for Aalto University's Game Analysis
 
 **Course contents:**
 
-The course is designed for a 6-week period, with approximately 5 or 6 hours of contact teaching per week.
+The course is designed for a 6-week period, with approximately 5 or 6 hours of contact teaching per week. The course consists of lectures, exercises, and a [final assignment](lectures/final_assignment_instructions.pdf).  
 
-* Week 1: Game analysis and research intro
-* Week 2: Game design math, balancing, analytics. We will heavily utilize Colab notebooks (see below).
+* Week 1: Game analysis and research intro. [Lecture slides](lectures/Intro_to_game_analysis_and_research.pdf)
+* Week 2: Game design math, balancing, analytics. We will heavily utilize Colab notebooks (see below). Lecture slides: [Part 1](lectures/Game_design_math_part1.pdf), [Part 2](lectures/Game_design_math_part2.pdf), See below for exercises.
 * Week 3: Psychology of game design: Behavioral game design, behavioral economics, monetization
 * Week 4: Psychology of game design: Intrinsic motivation, emotion
 * Week 5: Understanding the human body: Motor learning and performance for action game design, movement-based games. We usually conclude with a visit to [Valo Motion](https://valomotion.com) or Hoplop Pasila where Valo's climbing and trampoline games can be experienced.
@@ -13,9 +13,7 @@ The course is designed for a 6-week period, with approximately 5 or 6 hours of c
 
 Originally, this was a one week full-day workshop, with each day roughly corresponding to one week above.
 
-**Approach:**
-
-The course consists of lectures, exercises, and a [final assignment](lectures/final_assignment_instructions.pdf).  
+**Exercises:**
 
 Week 2 math and analytics exercises use [Google Colab](https://colab.research.google.com) and the Python notebooks in this repository. There are two notebooks that form a continuum with exercises of progressive difficulty. It is not expected that all students will complete all exercises. If one has zero programming experience, one might only work on the first notebook.
 
