@@ -2,16 +2,16 @@ This repository contains materials and code for Aalto University's Game Analysis
 
 **Course contents:**
 
-The course is designed for a 6-week period, with approximately 5 or 6 hours of contact teaching per week. The course consists of lectures, exercises, and a [final assignment](lectures/final_assignment_instructions.pdf):  
+The course is designed for a 6-week period, with approximately 5 or 6 hours of contact teaching per week. The course consists of lectures, exercises, and a final assignment:
 
 * Game analysis and research intro. [Lecture slides](lectures/Intro%20to%20game%20analysis%20and%20research.pdf)
 * Game design math, balancing, analytics. We will heavily utilize Colab notebooks (see below). Lecture slides: [Part 1](lectures/Game_design_math_part1.pdf), [Part 2](lectures/Game_design_math_part2.pdf). See below for the exercises.
 * Psychology of game design: Behavioral game design, behavioral economics, monetization. [Lecture slides](lectures/Psychology_of_games_part1_behavioral%20game%20design.pdf)
 * Psychology of game design: Intrinsic motivation [Lecture slides](lectures/Psychology_of_games_part2_intrinsic%20motivation.pdf)
 * Psychology of game design: Emotion, feeling, affect [Lecture slides](lectures/Psychology_of_games_part3_emotion.pdf)
-* Understanding the human body: Motor learning and performance for action game design, movement-based games.
-* Related to above: A visit to [Valo Motion](https://valomotion.com) or Hoplop Pasila where Valo's climbing and trampoline games can be experienced.
-* Personal mentoring of final assignments (optional, book a time with the teacher)
+* Understanding the human body: Motor learning and performance for action game design, movement-based games. Lecture slides: [Part 1](lectures/intrinsic_motivation_in_movement.pdf), [Part 2](lectures/Perception_action_and_motor_control_101.pdf)
+* Related to above: A visit to [Valo Motion](https://valomotion.com) or [Hoplop Pasila](https://www.hoplop.fi/sisaleikkipuisto/helsinki-pasila) where Valo's climbing and trampoline games can be experienced.
+* [Final assignment](lectures/final_assignment_instructions.pdf). Go deeper into a topic of your choice, individually or in groups. Final assignment tutoring details provided during class. Typically, there will be tutoring times available during the last week, and we're happy to answer any questions during or after the regular teaching hours.
 
 **Exercises:**
 
