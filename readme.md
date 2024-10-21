@@ -5,6 +5,7 @@ This repository contains materials and code for Aalto University's Game Analysis
 The course is designed for a 6-week period, with approximately 5 or 6 hours of contact teaching per week. The course consists of lectures, exercises, and a final assignment:
 
 * Game analysis and research intro. [Lecture slides](lectures/Intro%20to%20game%20analysis%20and%20research.pdf)
+* Emergence and game design. [Lecture slides](lectures/MDA_and_emergence.pdf)
 * Game design math, balancing, analytics. We will heavily utilize Colab notebooks (see below). Lecture slides: [Part 1](lectures/Game_design_math_part1.pdf), [Part 2](lectures/Game_design_math_part2.pdf). See below for the exercises.
 * Psychology of game design: Behavioral game design, behavioral economics, monetization. [Lecture slides](lectures/Psychology_of_games_part1_behavioral%20game%20design.pdf)
 * Psychology of game design: Intrinsic motivation [Lecture slides](lectures/Psychology_of_games_part2_intrinsic%20motivation.pdf)
